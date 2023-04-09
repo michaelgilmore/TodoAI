@@ -1,0 +1,1 @@
+aws secretsmanager create-secret --name "my-db-credentials" --secret-string '{"DB_HOST": "my-database-hostname", "DB_NAME": "my-database-name", "DB_USER": "my-database-user", "DB_PASSWORD": "my-database-password"}'
