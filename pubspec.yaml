@@ -39,6 +39,10 @@ dependencies:
   # The following adds flutter_svg for rendering svg images to the screens.
   flutter_svg: ^2.0.4
 
+  # Cognito authentication
+  amazon_cognito_identity_dart_2: ^3.3.0
+  flutter_dotenv: ^5.0.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -67,6 +71,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - images/undraw_completed_5jdt.svg
+    - .env
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

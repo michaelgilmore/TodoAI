@@ -1,6 +1,6 @@
 # todo2023
 
-A new Flutter project.
+Another Todo app for 2023 to exercise my Flutter knowledge and re-organize my life.
 
 ## Getting Started
 
@@ -15,5 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
+### AWS
 Aurora 2.11.2 (MySQL 5.7)
